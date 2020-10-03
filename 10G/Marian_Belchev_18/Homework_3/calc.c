@@ -40,7 +40,7 @@ int main(){
 			}
 			break;
 		default:
-			printf ("error");
+			printf ("error. Please enter valid choice");
 			break;
 	}
 	return 0;
